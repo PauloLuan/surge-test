@@ -10,4 +10,4 @@ Just type `surge` for deploy
 
 Introducing [Surge](https://surge.sh/) video tutorial: 
 
-[![Introducing Surge]](https://youtu.be/-EjdMvYPSVU)
+[![Introducing surge](http://img.youtube.com/vi/-EjdMvYPSVU/0.jpg)](http://www.youtube.com/watch?v=-EjdMvYPSVU)
